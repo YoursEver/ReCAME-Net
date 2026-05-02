@@ -20,7 +20,7 @@ To tackle this challenge, we propose the **Regional Channel Attention-based Mult
 ## Figure 1
 
 <p align="center">
-  <img src="fig00_newHeadlineX.png" alt="Figure 1" width="400">
+  <img src="fig00_newHeadline.png" alt="Figure 1" width="400">
 </p>
 
 **Figure 1.** Challenges posed by a real-world highly imbalanced IC defect image dataset. IC defect features are mixed with IC product design features, resulting in unexplored unique data properties that complicate the defect classification task.  
