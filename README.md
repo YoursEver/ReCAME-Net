@@ -1,6 +1,7 @@
 # ReCAME-Net
 
-Exploring "Many in Few" and "Few in Many" Properties in Long-Tailed, Highly-Imbalanced IC Defect Classification  
+**Exploring "Many in Few" and "Few in Many" Properties in Long-Tailed, Highly-Imbalanced IC Defect Classification**
+
 **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026**
 
 **DOI:** [https://doi.org/10.1109/TCAD.2025.3625105](https://doi.org/10.1109/TCAD.2025.3625105)
