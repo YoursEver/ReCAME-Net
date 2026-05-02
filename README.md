@@ -32,9 +32,7 @@ Figures (c) and (d) demonstrate samples of different defect categories and produ
 
 ## Source Code
 
-Due to the NDA with UMC, we can only provide the basic version of ReCAME-Net. This version is a specialized implementation in which ReCAME-Net is adapted for larval fish species classification.
-
-Download our code as a zip file from [here](YOUR_DROPBOX_LINK).
+Due to the NDA, we can only provide the basic version of ReCAME-Net. This version is a specialized implementation in which ReCAME-Net is adapted for whitebait (larval fish) species classification. This is the official version prepared by our co-author, Mr. Chun-Hao Chang.
 
 ---
 
