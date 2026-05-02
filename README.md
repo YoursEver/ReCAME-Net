@@ -24,15 +24,15 @@ To tackle this challenge, we propose the **Regional Channel Attention-based Mult
 </p>
 
 **Figure 1.** Challenges posed by a real-world highly imbalanced IC defect image dataset. IC defect features are mixed with IC product design features, resulting in unexplored unique data properties that complicate the defect classification task.  
-(a) The **many-in-few** property, i.e., *multi-cluster head classes*, stems from significant *intra-class diversity* in the feature space, where a single defect category exhibits multiple distinct clusters.  
-(b) Conversely, tail classes often contain very few samples, leading to the **few-in-many** property, where a sparse number of samples are scattered across a large feature space.  
-Figures (c) and (d) demonstrate samples of different defect categories and product lines, highlighting that these data properties arise from different defect patterns on the same IC design and the same defect pattern on different IC designs. These unique data properties, combining diverse defect patterns and overlapping design influences, significantly complicate the classification process.
+Figure 1-(a): The **many-in-few** property, i.e., *multi-cluster head classes*, stems from significant *intra-class diversity* in the feature space, where a single defect category exhibits multiple distinct clusters.  
+Figure 1-(b): Conversely, tail classes often contain very few samples, leading to the **few-in-many** property, where a sparse number of samples are scattered across a large feature space.  
+Figures 1-(c) and 1-(d): They demonstrate samples of different defect categories and product lines, highlighting that these data properties arise from different defect patterns on the same IC design and the same defect pattern on different IC designs. These unique data properties, combining diverse defect patterns and overlapping design influences, significantly complicate the classification process.
 
 ---
 
 ## Source Code
 
-Due to the NDA, we can only provide the basic version of ReCAME-Net. This version is a specialized implementation in which ReCAME-Net is adapted for whitebait (larval fish) species classification. This is the official version prepared by our co-author, Mr. Chun-Hao Chang.
+Due to the NDA, we can only provide the basic version of ReCAME-Net. This version is a specialized implementation in which ReCAME-Net is adapted for whitebait (larval fish) species classification (with *k*=2). This is the official version prepared by our co-author, Mr. Chun-Hao Chang.
 
 ---
 
